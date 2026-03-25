@@ -14,7 +14,8 @@
     "prerequisites": [
         "command-line-interface-introduction",
         "cli-command-anatomy",
-        "vs-code-terminal"
+        "vs-code-terminal",
+        "shell-command-ls"
     ],
     "related": [
         "terminal-autocomplete"
