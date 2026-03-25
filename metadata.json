@@ -1,22 +1,22 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "CLI Command History Navigation",
+    "slug": "cli-command-history-navigation",
+    "description": "A description of command history navigation using the up and down arrows in a CLI to view previous commands.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming",
+        "software-engieering",
+        "codespace"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "command-line-interface-introduction",
+        "cli-command-anatomy",
+        "vs-code-terminal"
     ],
     "related": [
-        "",
-        ""
+        "terminal-autocomplete"
     ]
 }
